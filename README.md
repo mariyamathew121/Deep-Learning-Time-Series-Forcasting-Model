@@ -99,4 +99,4 @@ Follow the instructions in the notebook `deeplearning.ipynb`
 - Install the dependancies using ```setup-new-vm.sh```
 - Run the command ```python app.py```
 - Now the flask app will be running in PORT 5000, Get the IP of the Virtual machine from Azure Portal and go to ```http://<your_ip>:5000```
-- 
+  
